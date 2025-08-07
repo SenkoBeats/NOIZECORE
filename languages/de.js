@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Entwickelt von SSRR | Prime Music v1.2",
+    footer: "Entwickelt von SenkoBeats | NOIZECORE",
     ping: {
       description: "Prüfe die Bot-Latenz",
       response: "Ping wird gemessen...",
@@ -275,4 +275,5 @@ module.exports = {
       noPermission: "Sie haben keine Berechtigung, diesen Befehl zu verwenden.",
       generalError: "- Fehler: {error}"
     }
+
 };
