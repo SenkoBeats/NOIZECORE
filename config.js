@@ -10,9 +10,9 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "ENTWICKELT VON SENKOBEATS", 
-  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  activityName: "SenkoBeats | NOIZECORE", 
+  activityType: "Hört",  // Available activity types : LISTENING , PLAYING
+  SupportServer: "Kommt Noch!",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
